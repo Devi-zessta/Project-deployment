@@ -83,8 +83,9 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'travelloDB',
         'USER':'postgres',
-        'PASSWORD':'SaiDurga@553',
-        'HOST':'172.31.7.166',
+        'PASSWORD':'123456789',
+        'HOST':'arn:aws:rds:ap-south-1:926705312082:db:database-1',
+        'PORT': '5432',
     }
 }
 
