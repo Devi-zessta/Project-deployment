@@ -84,7 +84,7 @@ DATABASES = {
         'NAME': 'travelloDB',
         'USER':'postgres',
         'PASSWORD':'123456789',
-        'HOST':'arn:aws:rds:ap-south-1:926705312082:db:database-1',
+        'HOST':'database-1.ctq7fbmhuued.ap-south-1.rds.amazonaws.com',
         'PORT': '5432',
     }
 }
